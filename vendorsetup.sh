@@ -1,0 +1,2 @@
+add_lunch_combo proandroid_mido-userdebug
+add_lunch_combo proandroid_mido-user
